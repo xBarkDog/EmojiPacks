@@ -1,0 +1,14 @@
+{
+    "name": "basic emojis",
+    "author": "Bark",
+    "emotes": [
+        {
+            "name": "GunRight",
+            "url": "https://i.ibb.co/Jxq2LTC/gunright.png"
+        },
+        {
+            "name": "GunLeft",
+            "url": "https://i.ibb.co/5TtcGBL/gunleft.png"
+        }
+    ]
+}
