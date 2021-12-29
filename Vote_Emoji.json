@@ -1,0 +1,18 @@
+{
+    "name": "Vote Emojis",
+    "author": "Doau James Xarca",
+    "emotes": [
+        {
+            "name": "Aye",
+            "url": "https://i.ibb.co/G553zGh/Aye.png"
+        },
+        {
+            "name": "Abstain",
+            "url": "https://i.ibb.co/3S2w20b/Abstain.png"
+        },
+        {
+            "name": "Nay",
+            "url": "https://i.ibb.co/QfRVrYX/Nay.png"
+        }
+    ]
+}
